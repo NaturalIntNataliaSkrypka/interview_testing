@@ -1,0 +1,17 @@
+.idea/*
+target/*
+*.iml
+*/target/*
+*/*.iml
+classes/*
+*.MF
+Log/*
+DataFormatter/Log/*
+
+${folderjar}/*
+Common/${folderjar}/*
+DataCollector/${folderjar}/*
+DataFetcher/${folderjar}/*
+DataFormatter/${folderjar}/*
+DataValidator/${folderjar}/*
+EmailFetcher/${folderjar}/*
