@@ -19,7 +19,7 @@ public class SpringConfig {
 
     @Bean
     public Connection connection () throws SQLException, ClassNotFoundException {
-        Class.forName("com.mysql.jdbc.Driver");
+        Class.forName("com.mysql.cj.jdbc.Driver");
         return DriverManager.getConnection("jdbc:mysql://localhost:3306/interview_schema","root", "root");
     }
 }
