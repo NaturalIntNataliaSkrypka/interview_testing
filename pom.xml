@@ -10,7 +10,7 @@
 
     <properties>
         <selenium.version>3.141.59</selenium.version>
-        <mysql.version>8.0.16</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <spring.version>5.1.7.RELEASE</spring.version>
         <junit.version>5.0-SNAPSHOT</junit.version>
         <rest.assured.version>4.0.0</rest.assured.version>
